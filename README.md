@@ -49,7 +49,7 @@ Don't forget to:
 	- [💻 Programming Courses (41)](#-programming-courses)
 	- [🎢 Career Courses (3)](#-career-courses)
 	- [📈 Marketing Courses (6)](#-marketing-courses)
-- [💪 Health and Fitness (3)](#-health-and-fitness)
+- [💪 Health and Fitness (4)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (11)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
@@ -160,8 +160,6 @@ Don't forget to:
 | 💰 | [DisplayBuddy](https://displaybuddy.app) | Control the brightness of external displays directly from your Mac | 33% OFF with code **BLACKFRIDAY** |
 | 🤑 | [Wins](https://wins.cool/html/index.html) | A New Mac Window Manager. Bring System-level Arrange Window features to Mac | 50% OFF with code **BLACKFRIDAY_2022**|
 | 🤑 | [LaunchBar](https://www.obdev.at/products/launchbar/order.html) | LaunchBar is a smart and powerful productivity utility that provides lightning fast access to applications, documents, contacts and bookmarks, to your Music Library, to search engines and more.  | 50% OFF (automatic)|
-|  💰 | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) | Secure IP camera viewer with support for standard streaming protocols for Mac | Standard version 25% off |
-
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -172,6 +170,7 @@ Don't forget to:
 | 💰 | [Timelog](https://timelog.link) | Time & Goal tracker app for Android and iOS. Understand how you spend your time and achieve your goals. | 30% OFF Timelog Plus (lifetime) with code **BLACKFRIDAY22** |
 |  💰 | [Grace](https://grace-app.com) | Powerful and easy-to use parental control app for iPhone and iPad. Get your children's screen time under control. | 20% OFF with code **BF22** |
 |  🤑 | [Reading Time for iOS](https://apps.apple.com/app/id1561460485) | Book reading companion app. Lets you clock your reading sessions and tells you time left to complete a book. What would you do if you knew a book can be finished in about 90 minutes? | 50% OFF for Unlock forever in-app purchase, no code necessary |
+|  💰 | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) | Secure IP camera viewer with support for standard streaming protocols for Mac | Standard version 25% off |
 |  💰 | [Typing](https://typinghero.app) [Hero](https://play.google.com/store/apps/details?id=sen.typinghero) | Summon your custom messages and instantly send them in 2 taps on your Android device—no matter if it's 10 or 1000 characters long. It has helped businesses and professionals worldwide collectively saved 350K+ hours. | 20-40% OFF Lifetime License. No code required. |
 | 💰 | [StopTheScript](https://underpassapp.com/StopTheScript/) | iOS Safari extension that stops all JavaScript on your selected websites. | $2 off |
 | 💰 | [Focused Work](https://apps.apple.com/app/id1523968394) | A powerful timer that helps you have highly productive days. | Up to 40% OFF Focused Work Pro |
@@ -519,6 +518,7 @@ Don't forget to:
 |  🤑 | [Debug Your Meditation](https://christinchong.gumroad.com/l/debug/TONY) | **_Debug Your Meditation_**: Transform Your Practice from a Chore to 'I Want More!' | 50% OFF with code **TONY** |
 |  🤑 | [Headspace](https://www.headspace.com/black-friday) | One of the world's most popular meditation app. | 50% OFF the 1st year |
 |  🤑 | [Bolt – workout planner](https://apps.apple.com/us/app/bolt-weight-lifting-journal/id1439649927) | **Bolt is the ultimate weightlifting companion. Log workouts, lift more, get stronger.** | 🌟 50% off annual plan. Access from the Discover tab in-app. |
+|  💰 | [Fitbod](https://app.fitbod.me/?code=BLACKFRIDAY2022) | **Workouts that improve as you do.** By studying your strength & training ability, past workouts and gym setup, Fitbod creates workouts tailored to you. | 40% OFF for the yearly plan |
 
 [⬆️ Go to Top](#table-of-contents)
 
